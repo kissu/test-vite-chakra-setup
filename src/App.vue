@@ -85,7 +85,7 @@ import {
   CIconButton,
   CFlex,
   CHeading,
-  CLink
+  // CLink
 } from "@chakra-ui/vue";
 
 export default {
@@ -107,7 +107,7 @@ export default {
     CIconButton,
     CFlex,
     CHeading,
-    CLink
+    // CLink
   },
   data() {
     return {
